@@ -1,0 +1,2 @@
+# awesome-setup
+awesome-script
